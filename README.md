@@ -3,7 +3,7 @@
 
 Antes de arriscar a mexer nesses arquivos saiba que vc vai precisar saber: ( html, css, e alguns programas )
 
-###Arquivos necessarios e sites:
+### Arquivos necessarios e sites:
 - notepad++ (  ou qualquer um q edite codigo)
 - leitor reader ( adobe digital edition) 
 - Epub pack [Link](http://sourceforge.net/projects/epubpack/)
@@ -32,7 +32,7 @@ EPUB/xhtml ( seus textos e sumarios)
 
 mimetype ( descricao do tipo de arquivo)
 
-###Como começar? Pergunte-se:
+### Como começar? Pergunte-se:
 
 - Sei um pouquinho de html?
 - Quantos capitulos precisarei?
@@ -57,7 +57,7 @@ Voce podera dar incio ao seu aprendizado em ebook ( formato epub) nele encontra-
 - http://idpf.org/sites/default/files/digital-book-conference/presentations/db2012/DB2012_Liz_Castro.pdf
 - http://www.idpf.org/accessibility/guidelines/
 
-###Conheça! [Goodesign.com.br](http://www.goodesign.com.br)
+### Conheça! [Goodesign.com.br](http://www.goodesign.com.br)
 
 
 
